@@ -1,3 +1,5 @@
+ /* Print Hello 3 Times  using for loop  */
+
 #include<stdio.h>
 void display()
 {
