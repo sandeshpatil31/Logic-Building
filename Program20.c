@@ -1,4 +1,7 @@
+ /* TO Print 1 to 5 Numbers using function */
+
 #include<stdio.h>
+
 void display()
 {
 	printf("1\n");

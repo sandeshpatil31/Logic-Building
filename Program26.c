@@ -1,14 +1,18 @@
+/*   Problem Statment :- To accept a number from user and  return summation of even number to still that number */
+
+
 #include<stdio.h>
-int summation(int iNum)//10
+
+int summationOfEvenNumbers(int iNum) // return integer value
 {
 	int iSum = 0;
 	int iCnt = 0;
 
-	for(iCnt=1;iCnt<=iNum;iCnt++) //icnt = 4
+	for(iCnt=1;iCnt<=iNum;iCnt++) 
 	{
-		if(iCnt%2 == 0)//Even
+		if(iCnt%2 == 0)  // Check Even
 		{
-			iSum = iSum+iCnt;
+			iSum = iSum+iCnt;   // Sum of even numbers
 		}
 	}
 	return iSum;
@@ -18,9 +22,9 @@ int main()
 	int iNum = 0;
 	int iRet = 0;
 
-	printf("Enter the number:\n");//10
+	printf("Enter the number:\n");
 	scanf("%d",&iNum);
 
-	iRet = summation(iNum);
-	printf("Summation = %d\n", iRet);
+	iRet = summationOfEvenNumbers(iNum);
+	printf("Summation = %d\n", iRet); 
 }

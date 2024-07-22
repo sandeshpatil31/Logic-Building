@@ -1,4 +1,7 @@
+ /* TO Print 1 to 5 Numbers */
+
 #include<stdio.h>
+
 int main()
 {
 	printf("1\n");

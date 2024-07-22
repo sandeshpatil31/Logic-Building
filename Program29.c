@@ -1,3 +1,6 @@
+/*   Problem Statment :- To accept a number from user and check number is divisible of 7 or not */
+
+
 #include <stdio.h>
 #include <stdbool.h>
 

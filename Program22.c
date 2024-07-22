@@ -1,4 +1,7 @@
+ /* TO Print Numbers to accept the value from user */
+
 #include<stdio.h>
+
 void display(int iNum)
 {
 	for(int iCnt=1;iCnt<=iNum;iCnt++)

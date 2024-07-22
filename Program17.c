@@ -1,4 +1,8 @@
+ /* Print Hello  by user input  using for loop  */
+
+
 #include<stdio.h>
+
 void display(int iNum)
 {
 	int iCnt=0;

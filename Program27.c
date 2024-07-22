@@ -1,3 +1,5 @@
+/*   Problem Statment :- To accept a number from user and check number is multiple of 3 or not */
+
 #include<stdio.h>
 #include <stdbool.h>
 

@@ -19,9 +19,10 @@ void getExamTimeTable(int iClass)
 	case 4:
 		printf("Your exam is at 12pm\n");
 		break;
-		
-	default:
+
+   default:
 		printf("Wrong Input");
+	
 	}
 }
 int main()

@@ -1,3 +1,6 @@
+/* Problem Statement :- TO accept a number from the user and print Non-factors of numbers  */
+
+
 #include<stdio.h>
 
 void displayNonFactors(int iNum)

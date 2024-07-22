@@ -1,4 +1,8 @@
+
+ /* Print Hello  by user input And handle negative number*/
+
 #include<stdio.h>
+
 void display(int iValue)
 {
 	if(iValue<0)
@@ -21,4 +25,4 @@ int main()
 	display(iCnt);
 
 	return 0;
-}
+}	

@@ -1,4 +1,7 @@
+/* TO Accept the number from user and return  summation of still number */
+
 #include<stdio.h>
+
 int summation(int iNum)
 {
 	if(iNum<0)

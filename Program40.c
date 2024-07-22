@@ -12,7 +12,7 @@ int SumOfFactors(int iNum)
 		{
 			iSum = iSum+iCnt;
 		}
-		
+	}
 	return iSum;
 	
 }
@@ -51,3 +51,6 @@ int main()
 	
 	return 0;
 }
+
+
+// Time complexity is O(N/2)

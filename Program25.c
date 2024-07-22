@@ -1,3 +1,5 @@
+/*   Problem Statment :- To accept a number from user and check number is odd or not. */
+
 #include<stdio.h>
 #include <stdbool.h>
 bool checkOdd(int iNum)

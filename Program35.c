@@ -1,4 +1,7 @@
+/* Problem Statement :- TO accept a number from the user and print factors of numbers  */
+
 #include<stdio.h>
+
 void displayFactors(int iNum)
 {
 	if(iNum<0)

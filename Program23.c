@@ -1,4 +1,7 @@
+ /* TO Print Numbers to accept the value if negative handle it from user */
+
 #include<stdio.h>
+
 void display(int iNum)
 {
 	if(iNum<0)

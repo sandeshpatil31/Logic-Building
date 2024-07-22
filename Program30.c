@@ -1,3 +1,6 @@
+/*   Problem Statment :- To accept the class from user and display the exam time table of class  */
+
+
 #include<stdio.h>
 
 void getExamTimeTable(int iClass)
