@@ -1,4 +1,4 @@
-/* Problem Statement - Write a program to return the count of the total number of
+/* Problem Statement - Write a program to accept a number from user and return the count of the total number of
 factors of a given number to Excluding 1 and and given number */
  
 #include<stdio.h>
