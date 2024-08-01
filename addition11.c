@@ -1,6 +1,11 @@
 /**********************************************************
  //FUNCTION NAME: addition
- //DESCRIPTION: It is used to perform the add of two numbers
+ //DESCRIPTION: It is 
+	if(iValue2 < 0) 
+	{
+		return -1; //Filter
+	}
+	used to perform the add of two numbers
  //INPUT: integer, integer
  //OUTPUT: integer
  //DATE: 05/06/2024
