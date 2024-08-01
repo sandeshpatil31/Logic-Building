@@ -1,3 +1,6 @@
+/* Problem Statement :- To accept a number from user and check whether the number is prime or not. */
+
+
 #include<stdio.h>
 #include<stdbool.h>
 
