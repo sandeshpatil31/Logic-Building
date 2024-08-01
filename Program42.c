@@ -1,3 +1,5 @@
+/* Porblem Statement :- To accept a number from user and display 1 to till that number  */
+
 #include<stdio.h>
 
 void displayNumbers(int iNum)
