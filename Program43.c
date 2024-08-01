@@ -1,3 +1,5 @@
+/* Porblem Statement :- To accept a number from user and display the numbers in reverse order storing from inputed to till 1. */
+
 #include<stdio.h>
 
 void displayNumbers(int iNum)
