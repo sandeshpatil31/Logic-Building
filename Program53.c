@@ -1,3 +1,6 @@
+/* Problem Statement - Write a program to accept a number from user and check the number is prime or not by factor count  of given number with code optimization */
+
+
 #include<stdio.h>
 #include<stdbool.h>
 
